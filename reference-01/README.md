@@ -1,10 +1,12 @@
-# Reference O1
+# Reference 01
+
+Centralized ingress with centrally deployed AWS Network Firewall, traffic inspected by AWS Network Firewall
 
 - Central Ingress VPC
 - Central Egress VPC
 - Inspection VPC
 - Transit Gateway
-- Spoke VPCs
+- N-number of Spoke VPCs
 
 <p align="center">
   <a href="https://aws.amazon.com/blogs/networking-and-content-delivery/deployment-models-for-aws-network-firewall/">

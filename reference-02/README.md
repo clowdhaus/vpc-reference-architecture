@@ -1,6 +1,10 @@
-# Reference O2
+# Reference 02
 
-- Transit Gateway appliance mode with Gateway Load Balancer
+Transit Gateway appliance mode with Gateway Load Balancer
+
+- Inspection VPC w/ Gateway Load Balancers
+- Transit Gateway
+- N-number of Spoke VPCs
 
 <p align="center">
   <a href="https://aws.amazon.com/blogs/apn/centralized-traffic-inspection-with-gateway-load-balancer-on-aws/">

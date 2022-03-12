@@ -1,6 +1,10 @@
-# Reference O3
+# Reference 03
 
-- Shared VPCs with centralized ingress/egress/inspection VPC
+Shared VPCs with centralized ingress/egress/inspection VPC
+
+- Central Ingress/Ingress/Inspection VPC
+- Transit Gateway
+- N-number of Shared Spoke VPCs with N-number of Accounts
 
 <p align="center">
   <a href="https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-key-considerations-and-best-practices/">
